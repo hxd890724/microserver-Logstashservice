@@ -1,0 +1,6 @@
+com\microservice\logstashservice\config\HystrixServiceConfig.class
+com\microservice\logstashservice\Application.class
+com\microservice\logstashservice\config\HystrixUtil.class
+com\microservice\logstashservice\controller\TestController.class
+com\microservice\logstashservice\config\MyHystrixCommand.class
+com\microservice\logstashservice\model\User.class
